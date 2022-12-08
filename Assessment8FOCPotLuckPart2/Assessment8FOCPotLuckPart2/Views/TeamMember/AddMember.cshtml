@@ -1,0 +1,58 @@
+﻿@model List<TeamMember>
+@{
+    ViewData["Title"] = "AddMember";
+}
+
+<h1>RSVP</h1>
+
+<form method="post" action="/teammember/rsvpcomplete">
+
+    <div class="form-group">
+      <label class="col-form-label col-form-label-sm mt-4" for="inputDefault">First Name</label>
+      <input type="text" class="form-control" placeholder="First Name" id="inputDefault" name="firstname"><span style="color:red; font-weightbold">@ViewBag.FirstNameMessage</span>
+    </div>
+    
+   @* First Name: <input type="text" name="firstname" /><br />*@
+
+    <div class="form-group">
+      <label class="col-form-label col-form-label-sm mt-4" for="inputDefault">Last Name</label>
+      <input type="text" class="form-control" placeholder="Last Name" id="inputDefault" name="lastname" /><span style="color:red; font-weightbold">@ViewBag.LastNameMessage</span>
+    </div><br />
+    @*Last Name: <input type="text" name="lastname" /><span style="color:red; font-weightbold">@ViewBag.LastNameMessage</span><br />*@
+
+    <div class="form-group">
+      <label class="col-form-label col-form-label-sm mt-4" for="inputDefault">Email Address</label>
+      <input type="text" class="form-control" placeholder="Email" id="inputDefault" name="emailaddress"><span style="color:red; font-weightbold">@ViewBag.EmailMessage</span>
+    </div><br />
+   @* Email Address: <input type="text" name="email"  /><span style="color:red; font-weightbold">@ViewBag.EmailMessage</span><br />*@
+   
+
+ <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
+  <button type="button" class="btn btn-info" name="dateattending">Date Attending</button>
+  <div class="btn-group" role="group">
+    <button id="btnGroupDrop3" type="button" class="btn btn-info dropdown-toggle show" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="true"></button> </select><span style="color:red; font-weightbold">@ViewBag.DateMessage</span>
+    <div class="dropdown-menu show" aria-labelledby="btnGroupDrop3" data-popper-placement="bottom-start" style="position: absolute; inset: 0px auto auto 0px; margin: 0px; transform: translate(0px, 40px);">
+        <select name="attendancedate">
+            <option>10/15/2022</option>
+            <option>10/16/2022</option>
+            <option>10/17/2022</option>
+        </select>
+    </div>
+    </div>
+  </div>
+@*    Date Attending: <select name="dateattending">
+                        <option>10/15/2022</option>
+                        <option>10/16/2022</option>
+                        <option>10/17/2022</option>
+                    </select><br />
+    *@
+    
+    <div class="form-group">
+      <label class="col-form-label col-form-label-sm mt-4" for="inputDefault">Guest Attending</label>
+      <input type="text" class="form-control" placeholder="Guest" id="inputDefault" name="guestname">
+    </div><br />
+    @*Guest Attending: <input type="text" name="guestname"/><<br />*@
+
+    <input type="submit" value="Submit" class="btn btn-info"/>
+</form>
+

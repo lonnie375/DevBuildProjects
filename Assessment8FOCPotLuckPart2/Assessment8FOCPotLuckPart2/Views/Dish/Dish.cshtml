@@ -1,0 +1,25 @@
+﻿@model Assessment8FOCPotLuckPart2.Models.Dish
+@{
+    ViewData["Title"] = "Dish";
+}
+
+<br />
+    <div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+      <div class="card-header">Results</div>
+      <div class="card-body">
+        <h4 class="card-title">Dish Summary</h4>
+        <p class="card-text">Name: @Model.tmname>
+         <p class="card-text">Phone Number: @Model.phonenumber</p>
+          <p class="card-text">Dish Name: @Model.dishname</p>
+           <p class="card-text">Dish Description: @Model.dishdescription</p>
+            <p class="card-text">Category: @Model.category</p>
+      </div>
+    </div>
+
+@*Name: @Model.Name<br />
+Phone Number: @Model.PhoneNumber<br />
+Dish Name: @Model.DishName<br />
+Dish Description: @Model.DishDescription<br />
+Category: @Model.Category<br />
+*@
+

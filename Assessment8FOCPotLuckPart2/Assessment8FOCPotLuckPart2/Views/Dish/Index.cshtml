@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>List of Dishes</h1>
+
+
+
+<table>
+    <thead>
+        <tr>
+            <th>TM Name</th>
+            <th>TM Phone Number</th>
+            <th>Dish Name</th>
+            <th>Dish Description</th>
+            <th>Category</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach(Dish p in Model)
+        {
+            <tr>
+                <td>@p.tmname</td>
+                <td>@p.phonenumber</td>
+                <td>@p.dishname</td>
+                <td>@p.dishdescription</td>
+                <td>@p.category</td>
+                <td>
+                    <a href="/dish/editdish/@p.id">Edit</a>
+                    <a href="/dish/delete/@p.id">Delete</a>
+                </td>
+
+            </tr>
+            
+        }
+    </tbody>
+</table><br />
+
+

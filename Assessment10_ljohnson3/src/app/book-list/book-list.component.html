@@ -1,0 +1,12 @@
+<div>
+    Title: <input type="text" [(ngModel)] = "newTitle">
+    Author: <input type="text" [(ngModel)] = "newAuthor">
+    Publication Year: <input type="number" [(ngModel)] = "newPubYear">
+    <button (click)="addBook()">Save Book</button>
+</div>
+
+<ng-container *ngFor="let book of BookService.getBooks()">
+    <!--The child component will go here-->
+    <app-book (delete)="deleteBook($event)" [TheBook]="book"></app-book>
+</ng-container>
+

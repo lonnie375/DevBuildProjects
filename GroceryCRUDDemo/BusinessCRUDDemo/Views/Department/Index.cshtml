@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>List of Departments</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Location</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Department dept in Model)
+        {
+            <tr>
+                <td>@dept.name</td>
+                <td>
+                    <a href="/department/detail/@dept.id">Details</a>
+                    <a href="/department/editform/@dept.id">Edit</a>
+                    <a href="/department/delete/@dept.id">Delete</a>
+                </td>
+            </tr>
+            
+        }
+    </tbody>
+</table><br />
+
+<a href="/department/addform">Add Department</a>

@@ -1,0 +1,39 @@
+﻿@model List<Category>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>List of Categories</h1>
+
+
+@*@foreach(Category cat in Model)
+{
+    <div class="container">
+        @cat.id
+    </div>
+}
+*@
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Category cat in Model)
+        {
+            <tr>
+                <td>@cat.name</td>
+                <td>
+                    <a href="/category/detail/@cat.id">Details</a>
+                    <a href="/category/editform/@cat.id">Edit</a>
+                    <a href="/category/confirmdelete/@cat.id">Delete</a>
+                </td>
+            </tr>
+            
+        }
+    </tbody>
+</table><br />
+
+<a href="/category/addform">Add Category</a>

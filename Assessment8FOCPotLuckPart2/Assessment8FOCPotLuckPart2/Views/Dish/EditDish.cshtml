@@ -1,0 +1,22 @@
+﻿@model Dish
+@{
+    ViewData["Title"] = "EditDish";
+}
+
+<h1>Edit Dish</h1>
+
+<form method="post" action="/dish/savechanges">
+      <input type="hidden" name="id" value="@Model.id" />
+ 
+    Name: <input type="text" name="tmname" value="@Model.tmname"/><br />
+    Phone Number: <input type="text" name="phonenumber" value="@Model.phonenumber"/><br />
+    Dish Name: <input type="text" name="dishname"  value="@Model.dishname" /><br />
+    Dish Description: <input type="text" name="dishdescription"  value="@Model.dishdescription" /><br />
+    Dish Category: 
+            <select name="category">
+            <option>Appetizer</option>
+            <option>Dessert</option>
+            <option>Main</option>
+                </select>
+    <input type="submit" value="Save" />
+</form>

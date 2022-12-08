@@ -1,0 +1,16 @@
+﻿@model RoverResponse
+@{
+    ViewData["Title"] = "DisplayList";
+}
+
+<h1>DisplayList</h1>
+
+
+    @foreach(PhotoResponse p in Model.photos)
+    {
+        <div class="col-xs-4">
+             <img src="@p.img_src"> <br />
+             Earth Date: @p.earth_date<br>
+             Sol: @p.sol<br>
+        </div>
+    }

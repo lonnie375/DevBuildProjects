@@ -1,0 +1,23 @@
+﻿@model MyList
+@{
+    ViewData["Title"] = "Home";
+}
+
+<table class="wp-table">
+    <tr>
+      <th>Name</th>
+      <th>Gender</th>
+      <th>Played By</th>
+    </tr>
+</table>
+
+@foreach (Character test in Model.list){
+ 
+  <table class="wp-table">
+    <tr>
+      <td>@test.name</td>
+      <td>@test.gender</td>
+      <td>@string.Join(",", test.playedBy)</td>
+    </tr>
+  </table>
+}

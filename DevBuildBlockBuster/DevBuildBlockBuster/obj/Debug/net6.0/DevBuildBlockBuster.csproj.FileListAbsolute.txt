@@ -1,0 +1,15 @@
+C:\Users\ljohnson3\source\repos\DevBuildBlockBuster\DevBuildBlockBuster\obj\Debug\net6.0\DevBuildBlockBuster.csproj.AssemblyReference.cache
+C:\Users\ljohnson3\source\repos\DevBuildBlockBuster\DevBuildBlockBuster\obj\Debug\net6.0\DevBuildBlockBuster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljohnson3\source\repos\DevBuildBlockBuster\DevBuildBlockBuster\obj\Debug\net6.0\DevBuildBlockBuster.AssemblyInfoInputs.cache
+C:\Users\ljohnson3\source\repos\DevBuildBlockBuster\DevBuildBlockBuster\obj\Debug\net6.0\DevBuildBlockBuster.AssemblyInfo.cs
+C:\Users\ljohnson3\source\repos\DevBuildBlockBuster\DevBuildBlockBuster\obj\Debug\net6.0\DevBuildBlockBuster.csproj.CoreCompileInputs.cache
+C:\Users\ljohnson3\source\repos\DevBuildBlockBuster\DevBuildBlockBuster\bin\Debug\net6.0\DevBuildBlockBuster.exe
+C:\Users\ljohnson3\source\repos\DevBuildBlockBuster\DevBuildBlockBuster\bin\Debug\net6.0\DevBuildBlockBuster.deps.json
+C:\Users\ljohnson3\source\repos\DevBuildBlockBuster\DevBuildBlockBuster\bin\Debug\net6.0\DevBuildBlockBuster.runtimeconfig.json
+C:\Users\ljohnson3\source\repos\DevBuildBlockBuster\DevBuildBlockBuster\bin\Debug\net6.0\DevBuildBlockBuster.dll
+C:\Users\ljohnson3\source\repos\DevBuildBlockBuster\DevBuildBlockBuster\bin\Debug\net6.0\DevBuildBlockBuster.pdb
+C:\Users\ljohnson3\source\repos\DevBuildBlockBuster\DevBuildBlockBuster\obj\Debug\net6.0\DevBuildBlockBuster.dll
+C:\Users\ljohnson3\source\repos\DevBuildBlockBuster\DevBuildBlockBuster\obj\Debug\net6.0\refint\DevBuildBlockBuster.dll
+C:\Users\ljohnson3\source\repos\DevBuildBlockBuster\DevBuildBlockBuster\obj\Debug\net6.0\DevBuildBlockBuster.pdb
+C:\Users\ljohnson3\source\repos\DevBuildBlockBuster\DevBuildBlockBuster\obj\Debug\net6.0\DevBuildBlockBuster.genruntimeconfig.cache
+C:\Users\ljohnson3\source\repos\DevBuildBlockBuster\DevBuildBlockBuster\obj\Debug\net6.0\ref\DevBuildBlockBuster.dll

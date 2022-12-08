@@ -1,0 +1,13 @@
+<div class="panel panel-default">
+<!-- <div class="panel-heading">{{ element.name }}</div> original code commented out when we went over LifeCycle-->
+<div class="panel-heading" #heading>{{ name }}</div>
+
+<div class="panel-body">
+  <!-- <p>
+    <strong *ngIf="element.type === 'server'" style="color: red">{{ element.content }}</strong>
+    <em *ngIf="element.type === 'blueprint'">{{ element.content }}</em>
+  </p> -->
+  <!--This content can also be added directly to app.component.html-->
+  <ng-content></ng-content> <!--This allows for us to place the 'p' code above directly in the app component.html-->
+</div>
+</div>

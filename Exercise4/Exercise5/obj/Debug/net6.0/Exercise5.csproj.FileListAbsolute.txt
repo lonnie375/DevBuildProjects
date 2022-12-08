@@ -1,0 +1,15 @@
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise5\bin\Debug\net6.0\Exercise5.exe
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise5\bin\Debug\net6.0\Exercise5.deps.json
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise5\bin\Debug\net6.0\Exercise5.runtimeconfig.json
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise5\bin\Debug\net6.0\Exercise5.dll
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise5\bin\Debug\net6.0\Exercise5.pdb
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise5\obj\Debug\net6.0\Exercise5.csproj.AssemblyReference.cache
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise5\obj\Debug\net6.0\Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise5\obj\Debug\net6.0\Exercise5.AssemblyInfoInputs.cache
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise5\obj\Debug\net6.0\Exercise5.AssemblyInfo.cs
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise5\obj\Debug\net6.0\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise5\obj\Debug\net6.0\Exercise5.dll
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise5\obj\Debug\net6.0\refint\Exercise5.dll
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise5\obj\Debug\net6.0\Exercise5.pdb
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise5\obj\Debug\net6.0\Exercise5.genruntimeconfig.cache
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise5\obj\Debug\net6.0\ref\Exercise5.dll

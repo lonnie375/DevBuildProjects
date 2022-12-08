@@ -1,0 +1,15 @@
+C:\Users\ljohnson3\source\repos\VariablesDemo1\RandomDemo\bin\Debug\net6.0\RandomDemo.exe
+C:\Users\ljohnson3\source\repos\VariablesDemo1\RandomDemo\bin\Debug\net6.0\RandomDemo.deps.json
+C:\Users\ljohnson3\source\repos\VariablesDemo1\RandomDemo\bin\Debug\net6.0\RandomDemo.runtimeconfig.json
+C:\Users\ljohnson3\source\repos\VariablesDemo1\RandomDemo\bin\Debug\net6.0\RandomDemo.dll
+C:\Users\ljohnson3\source\repos\VariablesDemo1\RandomDemo\bin\Debug\net6.0\RandomDemo.pdb
+C:\Users\ljohnson3\source\repos\VariablesDemo1\RandomDemo\obj\Debug\net6.0\RandomDemo.csproj.AssemblyReference.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\RandomDemo\obj\Debug\net6.0\RandomDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljohnson3\source\repos\VariablesDemo1\RandomDemo\obj\Debug\net6.0\RandomDemo.AssemblyInfoInputs.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\RandomDemo\obj\Debug\net6.0\RandomDemo.AssemblyInfo.cs
+C:\Users\ljohnson3\source\repos\VariablesDemo1\RandomDemo\obj\Debug\net6.0\RandomDemo.csproj.CoreCompileInputs.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\RandomDemo\obj\Debug\net6.0\RandomDemo.dll
+C:\Users\ljohnson3\source\repos\VariablesDemo1\RandomDemo\obj\Debug\net6.0\refint\RandomDemo.dll
+C:\Users\ljohnson3\source\repos\VariablesDemo1\RandomDemo\obj\Debug\net6.0\RandomDemo.pdb
+C:\Users\ljohnson3\source\repos\VariablesDemo1\RandomDemo\obj\Debug\net6.0\RandomDemo.genruntimeconfig.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\RandomDemo\obj\Debug\net6.0\ref\RandomDemo.dll

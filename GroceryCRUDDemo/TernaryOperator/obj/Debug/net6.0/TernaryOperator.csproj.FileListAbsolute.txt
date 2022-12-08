@@ -1,0 +1,15 @@
+C:\Users\ljohnson3\source\repos\GroceryCRUDDemo\TernaryOperator\bin\Debug\net6.0\TernaryOperator.exe
+C:\Users\ljohnson3\source\repos\GroceryCRUDDemo\TernaryOperator\bin\Debug\net6.0\TernaryOperator.deps.json
+C:\Users\ljohnson3\source\repos\GroceryCRUDDemo\TernaryOperator\bin\Debug\net6.0\TernaryOperator.runtimeconfig.json
+C:\Users\ljohnson3\source\repos\GroceryCRUDDemo\TernaryOperator\bin\Debug\net6.0\TernaryOperator.dll
+C:\Users\ljohnson3\source\repos\GroceryCRUDDemo\TernaryOperator\bin\Debug\net6.0\TernaryOperator.pdb
+C:\Users\ljohnson3\source\repos\GroceryCRUDDemo\TernaryOperator\obj\Debug\net6.0\TernaryOperator.csproj.AssemblyReference.cache
+C:\Users\ljohnson3\source\repos\GroceryCRUDDemo\TernaryOperator\obj\Debug\net6.0\TernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljohnson3\source\repos\GroceryCRUDDemo\TernaryOperator\obj\Debug\net6.0\TernaryOperator.AssemblyInfoInputs.cache
+C:\Users\ljohnson3\source\repos\GroceryCRUDDemo\TernaryOperator\obj\Debug\net6.0\TernaryOperator.AssemblyInfo.cs
+C:\Users\ljohnson3\source\repos\GroceryCRUDDemo\TernaryOperator\obj\Debug\net6.0\TernaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\ljohnson3\source\repos\GroceryCRUDDemo\TernaryOperator\obj\Debug\net6.0\TernaryOperator.dll
+C:\Users\ljohnson3\source\repos\GroceryCRUDDemo\TernaryOperator\obj\Debug\net6.0\refint\TernaryOperator.dll
+C:\Users\ljohnson3\source\repos\GroceryCRUDDemo\TernaryOperator\obj\Debug\net6.0\TernaryOperator.pdb
+C:\Users\ljohnson3\source\repos\GroceryCRUDDemo\TernaryOperator\obj\Debug\net6.0\TernaryOperator.genruntimeconfig.cache
+C:\Users\ljohnson3\source\repos\GroceryCRUDDemo\TernaryOperator\obj\Debug\net6.0\ref\TernaryOperator.dll

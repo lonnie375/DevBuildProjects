@@ -1,0 +1,24 @@
+﻿@model List<Category>
+@{
+    ViewData["Title"] = "AddForm";
+}
+
+<h1>AddForm</h1>
+
+<form method="post" action="/product/add">
+    Name: <input type="text" name="name" /><span style="color:red; font-weight:700">@ViewBag.NameMessage</span><br />
+    Description: <input type="text" name="Description" />  <span style="color:red; font-weight:700">@ViewBag.DescMessage</span><br />
+    Price: <input type="text" name="price" /> <span style="color:red; font-weight:700">@ViewBag.PriceMessage</span><br />
+    Inventory: <input type="number" name="inventory" /><span style="color:red; font-weight:700">@ViewBag.Inventory</span><br />
+    Category: 
+    
+        <select name="category">
+        @foreach(Category cat in Model)
+        {
+            <option value="@cat.id">@cat.name</option>
+        }
+        </select>
+    <br />
+    
+    <input type="submit" value="Save"/>
+</form>

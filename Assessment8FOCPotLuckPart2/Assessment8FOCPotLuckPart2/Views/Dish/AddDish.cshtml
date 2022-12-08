@@ -1,0 +1,58 @@
+﻿@model Assessment8FOCPotLuckPart2.Models.Dish
+@{
+    ViewData["Title"] = "AddDish";
+}
+
+<h1>Bring a Dish</h1>
+
+<form method="post" action="/dish/dish">
+
+    <div class="form-group">
+      <label class="col-form-label col-form-label-sm mt-4" for="inputDefault">Name</label>
+      <input type="text" class="form-control" placeholder="TeamMember Name" id="inputDefault" name="tmname">
+    </div>
+    @*Name: <input type="text" name="name" /><br />*@
+
+    <div class="form-group">
+      <label class="col-form-label col-form-label-sm mt-4" for="inputDefault">Phone Number</label>
+      <input type="tel" class="form-control" placeholder="10 digit phone number"  id="inputDefault" name="phonenumber"><span style="color:red; font-weight:bold">@ViewBag.PhoneMessage</span>
+    </div>
+@*    Phone Number: <input type="tel" name="phonenumber" placeholder="123-456-7890"/><span style="color:red; font-weight:bold">@ViewBag.PhoneMessage</span><br />
+*@
+
+    <div class="form-group">
+      <label class="col-form-label col-form-label-sm mt-4" for="inputDefault">Dish Name</label>
+      <input type="text" class="form-control" placeholder="Whats your dish?" id="inputDefault" name="dishname"><span style="color:red; font-weight:bold">@ViewBag.DishNameMessage</span>
+    </div>
+@*    Dish Name: <input type="text" name="dishname"  /><span style="color:red; font-weight:bold">@ViewBag.DishNameMessage</span><br />
+*@
+
+    <div class="form-group">
+      <label class="col-form-label col-form-label-sm mt-4" for="inputDefault">Dish Description</label>
+      <input type="text" class="form-control" placeholder="Describe your dish" id="inputDefault" name="dishdescription">
+    </div><br />
+@*    Dish Description: <input type="text" name="dishdescription"/><<br />*@
+
+
+ <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
+  <button type="button" class="btn btn-info" name="category">Category</button>
+  <div class="btn-group" role="group">
+    <button id="btnGroupDrop3" type="button" class="btn btn-info dropdown-toggle show" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="true"></button>
+    <div class="dropdown-menu show" aria-labelledby="btnGroupDrop3" data-popper-placement="bottom-start" style="position: absolute; inset: 0px auto auto 0px; margin: 0px; transform: translate(0px, 40px);">
+        <select name="category">
+            <option>Appetizer</option>
+            <option>Dessert</option>
+            <option>Main</option>
+        </select>
+    </div>
+  </div>
+</div><br /><br />
+@*    Category: <select name="category">
+                        <option>Appetizer</option>
+                        <option>Dessert</option>
+                        <option>Main</option>
+                    </select><br />*@
+
+    <input type="submit" value="Submit" class="btn btn-info"/>
+</form>
+

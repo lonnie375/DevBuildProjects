@@ -1,0 +1,15 @@
+C:\Users\ljohnson3\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\net6.0\SieveOfEratosthenes.exe
+C:\Users\ljohnson3\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\net6.0\SieveOfEratosthenes.deps.json
+C:\Users\ljohnson3\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\net6.0\SieveOfEratosthenes.runtimeconfig.json
+C:\Users\ljohnson3\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\net6.0\SieveOfEratosthenes.dll
+C:\Users\ljohnson3\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\net6.0\SieveOfEratosthenes.pdb
+C:\Users\ljohnson3\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.csproj.AssemblyReference.cache
+C:\Users\ljohnson3\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljohnson3\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.AssemblyInfoInputs.cache
+C:\Users\ljohnson3\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.AssemblyInfo.cs
+C:\Users\ljohnson3\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\ljohnson3\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.dll
+C:\Users\ljohnson3\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\refint\SieveOfEratosthenes.dll
+C:\Users\ljohnson3\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.pdb
+C:\Users\ljohnson3\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.genruntimeconfig.cache
+C:\Users\ljohnson3\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\ref\SieveOfEratosthenes.dll

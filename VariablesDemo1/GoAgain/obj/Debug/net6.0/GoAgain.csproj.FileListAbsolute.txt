@@ -1,0 +1,15 @@
+C:\Users\ljohnson3\source\repos\VariablesDemo1\GoAgain\bin\Debug\net6.0\GoAgain.exe
+C:\Users\ljohnson3\source\repos\VariablesDemo1\GoAgain\bin\Debug\net6.0\GoAgain.deps.json
+C:\Users\ljohnson3\source\repos\VariablesDemo1\GoAgain\bin\Debug\net6.0\GoAgain.runtimeconfig.json
+C:\Users\ljohnson3\source\repos\VariablesDemo1\GoAgain\bin\Debug\net6.0\GoAgain.dll
+C:\Users\ljohnson3\source\repos\VariablesDemo1\GoAgain\bin\Debug\net6.0\GoAgain.pdb
+C:\Users\ljohnson3\source\repos\VariablesDemo1\GoAgain\obj\Debug\net6.0\GoAgain.csproj.AssemblyReference.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\GoAgain\obj\Debug\net6.0\GoAgain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljohnson3\source\repos\VariablesDemo1\GoAgain\obj\Debug\net6.0\GoAgain.AssemblyInfoInputs.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\GoAgain\obj\Debug\net6.0\GoAgain.AssemblyInfo.cs
+C:\Users\ljohnson3\source\repos\VariablesDemo1\GoAgain\obj\Debug\net6.0\GoAgain.csproj.CoreCompileInputs.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\GoAgain\obj\Debug\net6.0\GoAgain.dll
+C:\Users\ljohnson3\source\repos\VariablesDemo1\GoAgain\obj\Debug\net6.0\refint\GoAgain.dll
+C:\Users\ljohnson3\source\repos\VariablesDemo1\GoAgain\obj\Debug\net6.0\GoAgain.pdb
+C:\Users\ljohnson3\source\repos\VariablesDemo1\GoAgain\obj\Debug\net6.0\GoAgain.genruntimeconfig.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\GoAgain\obj\Debug\net6.0\ref\GoAgain.dll

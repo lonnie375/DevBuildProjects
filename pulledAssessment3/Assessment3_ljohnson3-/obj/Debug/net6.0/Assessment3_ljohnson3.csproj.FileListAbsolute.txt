@@ -1,0 +1,15 @@
+C:\Users\ljohnson3\source\repos\Assessment3_ljohnson3\Assessment3_ljohnson3\bin\Debug\net6.0\Assessment3_ljohnson3.exe
+C:\Users\ljohnson3\source\repos\Assessment3_ljohnson3\Assessment3_ljohnson3\bin\Debug\net6.0\Assessment3_ljohnson3.deps.json
+C:\Users\ljohnson3\source\repos\Assessment3_ljohnson3\Assessment3_ljohnson3\bin\Debug\net6.0\Assessment3_ljohnson3.runtimeconfig.json
+C:\Users\ljohnson3\source\repos\Assessment3_ljohnson3\Assessment3_ljohnson3\bin\Debug\net6.0\Assessment3_ljohnson3.dll
+C:\Users\ljohnson3\source\repos\Assessment3_ljohnson3\Assessment3_ljohnson3\bin\Debug\net6.0\Assessment3_ljohnson3.pdb
+C:\Users\ljohnson3\source\repos\Assessment3_ljohnson3\Assessment3_ljohnson3\obj\Debug\net6.0\Assessment3_ljohnson3.csproj.AssemblyReference.cache
+C:\Users\ljohnson3\source\repos\Assessment3_ljohnson3\Assessment3_ljohnson3\obj\Debug\net6.0\Assessment3_ljohnson3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljohnson3\source\repos\Assessment3_ljohnson3\Assessment3_ljohnson3\obj\Debug\net6.0\Assessment3_ljohnson3.AssemblyInfoInputs.cache
+C:\Users\ljohnson3\source\repos\Assessment3_ljohnson3\Assessment3_ljohnson3\obj\Debug\net6.0\Assessment3_ljohnson3.AssemblyInfo.cs
+C:\Users\ljohnson3\source\repos\Assessment3_ljohnson3\Assessment3_ljohnson3\obj\Debug\net6.0\Assessment3_ljohnson3.csproj.CoreCompileInputs.cache
+C:\Users\ljohnson3\source\repos\Assessment3_ljohnson3\Assessment3_ljohnson3\obj\Debug\net6.0\Assessment3_ljohnson3.dll
+C:\Users\ljohnson3\source\repos\Assessment3_ljohnson3\Assessment3_ljohnson3\obj\Debug\net6.0\refint\Assessment3_ljohnson3.dll
+C:\Users\ljohnson3\source\repos\Assessment3_ljohnson3\Assessment3_ljohnson3\obj\Debug\net6.0\Assessment3_ljohnson3.pdb
+C:\Users\ljohnson3\source\repos\Assessment3_ljohnson3\Assessment3_ljohnson3\obj\Debug\net6.0\Assessment3_ljohnson3.genruntimeconfig.cache
+C:\Users\ljohnson3\source\repos\Assessment3_ljohnson3\Assessment3_ljohnson3\obj\Debug\net6.0\ref\Assessment3_ljohnson3.dll

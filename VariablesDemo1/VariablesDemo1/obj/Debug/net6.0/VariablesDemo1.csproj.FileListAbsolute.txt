@@ -1,0 +1,15 @@
+C:\Users\ljohnson3\source\repos\VariablesDemo1\VariablesDemo1\bin\Debug\net6.0\VariablesDemo1.exe
+C:\Users\ljohnson3\source\repos\VariablesDemo1\VariablesDemo1\bin\Debug\net6.0\VariablesDemo1.deps.json
+C:\Users\ljohnson3\source\repos\VariablesDemo1\VariablesDemo1\bin\Debug\net6.0\VariablesDemo1.runtimeconfig.json
+C:\Users\ljohnson3\source\repos\VariablesDemo1\VariablesDemo1\bin\Debug\net6.0\VariablesDemo1.dll
+C:\Users\ljohnson3\source\repos\VariablesDemo1\VariablesDemo1\bin\Debug\net6.0\VariablesDemo1.pdb
+C:\Users\ljohnson3\source\repos\VariablesDemo1\VariablesDemo1\obj\Debug\net6.0\VariablesDemo1.csproj.AssemblyReference.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\VariablesDemo1\obj\Debug\net6.0\VariablesDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljohnson3\source\repos\VariablesDemo1\VariablesDemo1\obj\Debug\net6.0\VariablesDemo1.AssemblyInfoInputs.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\VariablesDemo1\obj\Debug\net6.0\VariablesDemo1.AssemblyInfo.cs
+C:\Users\ljohnson3\source\repos\VariablesDemo1\VariablesDemo1\obj\Debug\net6.0\VariablesDemo1.csproj.CoreCompileInputs.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\VariablesDemo1\obj\Debug\net6.0\VariablesDemo1.dll
+C:\Users\ljohnson3\source\repos\VariablesDemo1\VariablesDemo1\obj\Debug\net6.0\refint\VariablesDemo1.dll
+C:\Users\ljohnson3\source\repos\VariablesDemo1\VariablesDemo1\obj\Debug\net6.0\VariablesDemo1.pdb
+C:\Users\ljohnson3\source\repos\VariablesDemo1\VariablesDemo1\obj\Debug\net6.0\VariablesDemo1.genruntimeconfig.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\VariablesDemo1\obj\Debug\net6.0\ref\VariablesDemo1.dll

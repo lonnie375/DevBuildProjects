@@ -1,0 +1,15 @@
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise27\bin\Debug\net6.0\Exercise27.exe
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise27\bin\Debug\net6.0\Exercise27.deps.json
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise27\bin\Debug\net6.0\Exercise27.runtimeconfig.json
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise27\bin\Debug\net6.0\Exercise27.dll
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise27\bin\Debug\net6.0\Exercise27.pdb
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise27\obj\Debug\net6.0\Exercise27.csproj.AssemblyReference.cache
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise27\obj\Debug\net6.0\Exercise27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise27\obj\Debug\net6.0\Exercise27.AssemblyInfoInputs.cache
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise27\obj\Debug\net6.0\Exercise27.AssemblyInfo.cs
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise27\obj\Debug\net6.0\Exercise27.csproj.CoreCompileInputs.cache
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise27\obj\Debug\net6.0\Exercise27.dll
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise27\obj\Debug\net6.0\refint\Exercise27.dll
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise27\obj\Debug\net6.0\Exercise27.pdb
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise27\obj\Debug\net6.0\Exercise27.genruntimeconfig.cache
+C:\Users\ljohnson3\source\repos\Exercise4\Exercise27\obj\Debug\net6.0\ref\Exercise27.dll

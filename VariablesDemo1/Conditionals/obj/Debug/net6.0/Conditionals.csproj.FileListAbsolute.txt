@@ -1,0 +1,15 @@
+C:\Users\ljohnson3\source\repos\VariablesDemo1\Conditionals\bin\Debug\net6.0\Conditionals.exe
+C:\Users\ljohnson3\source\repos\VariablesDemo1\Conditionals\bin\Debug\net6.0\Conditionals.deps.json
+C:\Users\ljohnson3\source\repos\VariablesDemo1\Conditionals\bin\Debug\net6.0\Conditionals.runtimeconfig.json
+C:\Users\ljohnson3\source\repos\VariablesDemo1\Conditionals\bin\Debug\net6.0\Conditionals.dll
+C:\Users\ljohnson3\source\repos\VariablesDemo1\Conditionals\bin\Debug\net6.0\Conditionals.pdb
+C:\Users\ljohnson3\source\repos\VariablesDemo1\Conditionals\obj\Debug\net6.0\Conditionals.csproj.AssemblyReference.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\Conditionals\obj\Debug\net6.0\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljohnson3\source\repos\VariablesDemo1\Conditionals\obj\Debug\net6.0\Conditionals.AssemblyInfoInputs.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\Conditionals\obj\Debug\net6.0\Conditionals.AssemblyInfo.cs
+C:\Users\ljohnson3\source\repos\VariablesDemo1\Conditionals\obj\Debug\net6.0\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\Conditionals\obj\Debug\net6.0\Conditionals.dll
+C:\Users\ljohnson3\source\repos\VariablesDemo1\Conditionals\obj\Debug\net6.0\refint\Conditionals.dll
+C:\Users\ljohnson3\source\repos\VariablesDemo1\Conditionals\obj\Debug\net6.0\Conditionals.pdb
+C:\Users\ljohnson3\source\repos\VariablesDemo1\Conditionals\obj\Debug\net6.0\Conditionals.genruntimeconfig.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\Conditionals\obj\Debug\net6.0\ref\Conditionals.dll

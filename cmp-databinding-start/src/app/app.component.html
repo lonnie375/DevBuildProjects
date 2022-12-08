@@ -1,0 +1,24 @@
+<div class="container">
+  <!--$event is going to allow us to catch the information being passed to the method-->
+  <!--serverCreated and blueprintCreated are names we just used here. Like variables-->
+<app-cockpit (serverCreated)="onServerAdded($event)" (blueprintCreated)="onBlueprintAdded($event)"></app-cockpit>
+  <hr>
+  <div class="row">
+    <div class="col-xs-12">
+      <button class="btn btn-primary" (click)="onChangeFirst()">Change first element</button>
+      <button class="btn btn-danger" (click)="onDestroyFirst()">Destroy first component</button>
+      <!--Here we are using the alias 'srvElement' to bind to the component-->
+      <!--This was initiated in the server-element.component.ts file as well-->
+      <!--Note, the alias isn't required-->
+      <app-server-element *ngFor="let serverElement of serverElements" [srvElement]="serverElement" [name]="serverElement.name">
+        <!--This code was taken from server element html component-->
+        <p #contentParagraph>
+          <strong *ngIf="serverElement.type === 'server'" style="color: red">{{ serverElement.content }}</strong>
+          <em *ngIf="serverElement.type === 'blueprint'">{{ serverElement.content }}</em>
+        </p>
+                <!--This code was taken from server element html component-->
+
+      </app-server-element>
+    </div>
+  </div>
+</div>

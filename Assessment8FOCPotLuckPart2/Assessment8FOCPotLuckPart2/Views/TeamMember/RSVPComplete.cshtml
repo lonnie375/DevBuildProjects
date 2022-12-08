@@ -1,0 +1,19 @@
+﻿@model TeamMember
+@{
+    ViewData["Title"] = "RSVPComplete";
+}
+
+<h1>RSVPComplete</h1>
+<br />
+
+    @if(@Model.guestname == null)
+    {
+        <p class="text-success">Thank you for registering for the potluck on @Model.attendancedate @Model.firstname @Model.lastname!</p>
+        <p class="text-success">We look forward to seeing you!</p>
+        <p class="text-success">We will contact you at @Model.emailaddress with any updates.</p>
+    }
+    else {
+        <p class="text-success">Thank you for registering for the potluck on @Model.attendancedate @Model.firstname @Model.lastname!</p>
+        <p class="text-success">We look forward to seeing you and @Model.guestname!</p>
+        <p class="text-success">We will contact you at @Model.emailaddress with any updates.</p>
+    }

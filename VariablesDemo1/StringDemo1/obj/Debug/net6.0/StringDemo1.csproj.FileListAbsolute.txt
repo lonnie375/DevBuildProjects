@@ -1,0 +1,15 @@
+C:\Users\ljohnson3\source\repos\VariablesDemo1\StringDemo1\bin\Debug\net6.0\StringDemo1.exe
+C:\Users\ljohnson3\source\repos\VariablesDemo1\StringDemo1\bin\Debug\net6.0\StringDemo1.deps.json
+C:\Users\ljohnson3\source\repos\VariablesDemo1\StringDemo1\bin\Debug\net6.0\StringDemo1.runtimeconfig.json
+C:\Users\ljohnson3\source\repos\VariablesDemo1\StringDemo1\bin\Debug\net6.0\StringDemo1.dll
+C:\Users\ljohnson3\source\repos\VariablesDemo1\StringDemo1\bin\Debug\net6.0\StringDemo1.pdb
+C:\Users\ljohnson3\source\repos\VariablesDemo1\StringDemo1\obj\Debug\net6.0\StringDemo1.csproj.AssemblyReference.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\StringDemo1\obj\Debug\net6.0\StringDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljohnson3\source\repos\VariablesDemo1\StringDemo1\obj\Debug\net6.0\StringDemo1.AssemblyInfoInputs.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\StringDemo1\obj\Debug\net6.0\StringDemo1.AssemblyInfo.cs
+C:\Users\ljohnson3\source\repos\VariablesDemo1\StringDemo1\obj\Debug\net6.0\StringDemo1.csproj.CoreCompileInputs.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\StringDemo1\obj\Debug\net6.0\StringDemo1.dll
+C:\Users\ljohnson3\source\repos\VariablesDemo1\StringDemo1\obj\Debug\net6.0\refint\StringDemo1.dll
+C:\Users\ljohnson3\source\repos\VariablesDemo1\StringDemo1\obj\Debug\net6.0\StringDemo1.pdb
+C:\Users\ljohnson3\source\repos\VariablesDemo1\StringDemo1\obj\Debug\net6.0\StringDemo1.genruntimeconfig.cache
+C:\Users\ljohnson3\source\repos\VariablesDemo1\StringDemo1\obj\Debug\net6.0\ref\StringDemo1.dll
