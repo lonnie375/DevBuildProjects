@@ -1,0 +1,22 @@
+
+<div>
+    <!--Displays a single post in the list-->
+    <div style="padding-left:20px;">
+        <ng-container *ngIf="!editPost">
+            <div class="newButton">
+                <button (click)="deleted()">Delete</button> <button (click)="edit()">Edit</button>   
+            </div>
+            <h3>{{singlePost.title}}</h3>  
+            <p>{{singlePost.thought}}</p> 
+        </ng-container>
+        <ng-container *ngIf="editPost">
+            <label>Title</label><br>
+            <input type="text"[(ngModel)]="changeTitle"><br>
+            <label>Thought</label><br>
+            <input type="text"[(ngModel)]="changeThought"><br>
+            <button (click)="savePost()">Save New Post</button>
+            <button (click)="cancel()">Cancel</button>
+        </ng-container>
+    </div>
+
+</div>

@@ -1,0 +1,8 @@
+<div>
+    <p>Name: {{TheBev.name}}, Size: {{TheBev.size}} ounces.</p>
+    <div *ngIf="TheBev.alcohol">
+        (contains alcohol)
+    </div>
+    <button (click)="doDelete()">Delete</button>
+</div>
+

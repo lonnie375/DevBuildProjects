@@ -1,0 +1,38 @@
+<!--Input form will go here-->
+
+<div  *ngIf="newThought == false">
+    <div class="thought">
+        <div class="outline">
+            <h1>My Thoughts</h1><br>
+            <button class="btn btn-outline-secondary" (click)="showForm()">New Thought</button>
+        
+            <!--for loop used on the single post component select-->
+            <div class="newPost">
+            <div   *ngFor="let p of newPost">
+               
+                    <app-single-post [singlePost]="p" (delete)="deleteItem($event)"></app-single-post>
+
+                <!--SinglePosts used in our template-->
+            </div>
+        </div>
+        </div>
+    </div>
+</div>
+
+
+<div  *ngIf="newThought == true">
+    <div class="post">
+       
+            <label class="label">Title</label><br>
+            <input type="text" placeholder="Best Lab Ever" [(ngModel)]="postLists.title"><br><br>
+        
+            <label class="label">Thought</label><br>
+            <input type="text" placeholder="This lab is the best lab ever! woohoo!" [(ngModel)]="postLists.thought"><br><br>
+        
+             <button class="addPost" (click)="addPosts()" >Add Post</button>
+        
+
+    </div>
+</div>
+
+

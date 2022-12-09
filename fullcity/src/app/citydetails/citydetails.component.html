@@ -1,0 +1,15 @@
+<div>
+    <ng-container *ngIf="!editMode">
+        {{TheCity.name}}, {{TheCity.state}}, Population => ({{TheCity.population}})<br>
+        <button (click)="edit()">Edit</button>
+        <button (click)="deletes()">Delete</button>
+    </ng-container>
+
+    <ng-container *ngIf="editMode">
+        <input type="text" [(ngModel)]="changeName">
+        <input type="text" [(ngModel)]="changeState">
+        <input type="number" [(ngModel)]="changePop">
+        <button (click)="saveChanges()">Save Changes</button>
+        <button (click)="cancelChanges()">Cancel</button>
+    </ng-container>
+</div>

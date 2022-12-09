@@ -1,0 +1,19 @@
+<h1>Cities</h1>
+<app-citydetails></app-citydetails>
+<!--ngcontainer will not show a div in the browswer
+    we use this when doing for loops mostly-->
+<ng-container *ngFor="let city of cities">
+    <app-citydetails [TheCity]="city" (remove)="removeItem($event)"></app-citydetails>
+</ng-container><br>
+<button *ngIf="showAdd == true" (click)="showAddForm()">Show Add Form</button>
+
+<div *ngIf="showAdd == false">
+    <h2>Add City</h2>
+    Name: <input type="text" [(ngModel)]="NewName"><br>
+    State: <input type="text" [(ngModel)]="NewState"><br>
+    Population: <input type="number" [(ngModel)]="NewPopulation"><br>
+    <button (click)="add()">Add</button>
+    <button (click)="cancel()">Cancel</button>
+</div>
+    
+    

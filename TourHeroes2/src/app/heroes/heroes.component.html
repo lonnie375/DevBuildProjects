@@ -1,0 +1,24 @@
+<h2>My Heroes</h2>
+
+<!--List the mock heroes stored in the class/object-->
+<ul class="heroes">
+  <li *ngFor="let hero of heroes">
+    <button [class.selected]="hero === selectedHero" type="button" (click)="onSelect(hero)">
+      <span class="badge">{{hero.id}}</span>
+      <span class="name">{{hero.name}}</span>
+    </button>
+  </li>
+</ul>
+
+<!--Will display the selected hero-->
+<div *ngIf="selectedHero">
+  <h2>{{selectedHero.name | uppercase}} Details</h2>
+  <div>id: {{selectedHero.id}}</div>
+  <div>
+    <label for="hero-name">Hero name: </label>
+    <input  id="hero-name" [(ngModel)="selectedHero.name"] placeholder="name">
+  </div>
+</div>
+
+ <!--This allows us to display the selected hero on this screen-->
+<app-hero-detail [hero] = "selectedHero"></app-hero-detail>

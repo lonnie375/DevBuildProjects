@@ -1,0 +1,16 @@
+<!--We want to loop through the list-->
+
+<div>
+    <!--We need to add .get because this is the function we made so that we can 
+        access our list that's in our services -->
+    <ng-container *ngFor="let bev of BevSrc.get()">
+        <app-bev-detail [TheBev] = 'bev' (delete)="delete($event)"></app-bev-detail>
+    </ng-container>
+
+    <hr>
+    <h4>Add New</h4>
+    Name: <input type="text" [(ngModel)]="newName"><br>
+    Size: <input type="number" [(ngModel)]="newSize"><br>
+    <input type="checkbox" [(ngModel)]="newAlcohol"> Contains alcohol <br>
+    <button (click)="addOne()">Save</button>
+</div>

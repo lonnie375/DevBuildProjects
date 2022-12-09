@@ -1,0 +1,26 @@
+<div class="container fluid">
+  <div class="col-sm-6">
+    <h1>City Details</h1>
+
+    <div *ngFor="let city of cities">
+      <!-- <p>Name: {{city.name}}</p>
+      <p>Name: {{city.state}}</p>
+      <p>Name: {{city.population}}</p> -->
+
+      <!--theCity details are filled in with the information we have
+          from "cities" in the app.component.ts-->
+      <app-city [theCity] = "city"></app-city>
+    </div><br>
+    <button (click)="showForm()">Show Add City Form</button>
+   
+  </div>
+  
+  <div *ngIf="formShowing == true">
+    <h2>Add City</h2>
+    Name: <input type="text" [(ngModel)] = "newCity.name"><br>
+    State: <input type="text" [(ngModel)] = "newCity.state"><br>
+    Population: <input type="number" [(ngModel)] = "newCity.population"><br>
+    <button (click)="addCity()">Add</button>
+    <button (click)="cancelAdd()">Cancel Add</button>
+  </div>
+</div>

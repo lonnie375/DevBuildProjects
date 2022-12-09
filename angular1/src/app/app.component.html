@@ -1,0 +1,28 @@
+
+  <div class="container-fluid">
+    <h1>{{title}}</h1>
+      <p>Tell me something good!</p>
+      <p >{{name}} says you're the best.</p>
+
+  <h3>List of Cities</h3>
+  <div *ngFor="let city of cities">
+      <ul>
+        <li>{{city}}</li>
+      </ul>
+  </div>
+  <label class="header">Add a new City</label>
+  <input type="text" class="form-control" [(ngModel)]="newCity"><br>
+  <button (click)="addCity()">Click Me</button>
+  
+  <h3>More cities</h3>
+  <div *ngFor="let city of moreCities">
+      <ul>
+        <li>Name: {{city.name}}</li>
+        <li>State: {{city.state}}</li>
+        <li>Population: {{city.population}}</li>
+      </ul>
+  </div>
+</div>
+
+
+

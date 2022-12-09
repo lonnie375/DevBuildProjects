@@ -1,0 +1,58 @@
+ h1 {
+    font-family: 'Homemade Apple';
+    color: rgb(76, 159, 238)
+
+}
+
+.thought, .post {
+    width: 50%;
+    margin: 0px auto;
+    text-align: center;
+    
+}
+
+.outline {
+
+    width: 75%;
+}
+.newPost {
+    text-align: left;
+    border: solid grey;
+    border-width: thin;
+    border-radius: 5px;
+}
+
+.font {
+    font-family: 'Dosis';
+}
+
+* {
+    margin-top: 15px;
+    
+}
+
+/* button {
+    width: 100%;
+} */
+
+.newButton {
+    float: right; 
+}
+
+input {
+    width: 75%;
+}
+
+.label {
+    text-align: left;
+    width: 75%;
+}
+
+.addPost {
+    width: 75%;
+}
+
+.adjustment {
+    width: 100%;
+   
+}
